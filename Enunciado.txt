@@ -1,0 +1,44 @@
+
+Enunciado
+
+Esta práctica consiste en la realización de 5 ejercicios sobre desarrollo de algoritmos. Deberás realizarlas de acuerdo a las especificaciones que te damos. Una vez completados envía la solución a tu tutor en un documento PDF.
+
+Ejercicio 1
+
+Introducir por teclado dos números enteros y calculamos y mostramos por la consola:
+
+a. La suma
+
+b. La resta
+
+c. El producto
+
+d. La división
+
+e. El resto de su división
+Ejercicio 2
+Introducir por teclado dos números y una palabra, y si la palabra es:
+
+a. triángulo: calculas el área
+
+b. rectángulo: el perímetro y el área
+
+c. círculo: la circunferencia con el primer dato y el área circulo con el segundo
+El resultado de cada operación le Escribes por consola.
+Ejercicio 3
+Introducir por teclado 10 números y escribir cada número leído. Al final del proceso Escribir:
+
+a. Cuál es la media de los números leídos.
+
+b. Cuál es la suma de los números leídos.
+
+c. Cuántos son pares y cuantos son impares.
+Ejercicio 4
+
+Introducir por teclado nombres de personas, hasta que me teclean la palabra “FIN”. Al final del proceso indicar, cuantas palabras tienen un número impar de caracteres, cuantas un número par, y cuantas palabras hemos leído válidas (que no sean “FIN”).
+Ejercicio 5
+
+Diseña un algoritmo para un programa que te permita obtener una nota entre 1 y 10 de forma aleatoria, 20 veces, y muestre un texto en pantalla indicando si es “Muy deficiente”, “Insuficiente”, “Bien”, “Notable”, etc.
+
+El algoritmo principal debe invocar a una FUNCIÓN que recibe la calificación numérica y retorna el texto correspondiente a la nota.
+Al final del proceso Escribes, cuál es la media de todas las notas, y cuántas notas hay de cada categoría (“Muy deficiente”, etc.).
